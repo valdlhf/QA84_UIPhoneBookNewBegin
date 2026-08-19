@@ -1,0 +1,7 @@
+1195 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\DSAJ002473\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+
+2066 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 151.0.7922.138 (resolved driver for Chrome 151)
+2117 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\DSAJ002473\.cache\selenium\chromedriver\win64\151.0.7922.138\chromedriver.exe
+5815 [main] INFO  de.phonebook.core.TestBase -- Start Test
+7962 [main] INFO  de.phonebook.core.TestBase -- Stop Test

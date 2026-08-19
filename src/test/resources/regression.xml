@@ -10,6 +10,7 @@
                 </methods>
             </class>
             <!-- <class name="de.phonebook.tests.AddContactTest"/>-->
+            <class name="de.phonebook.tests.AddContactTest"/>
             <class name="de.phonebook.tests.RemoveContactTests"/>
         </classes>
     </test>

@@ -1,0 +1,21 @@
+1736 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\DSAJ002473\AppData\Local\JetBrains\IntelliJIdea2026.1\temp-testng-customsuite.xml
+
+3137 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 151.0.7922.138 (resolved driver for Chrome 151)
+3223 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\DSAJ002473\.cache\selenium\chromedriver\win64\151.0.7922.138\chromedriver.exe
+8079 [main] INFO  de.phonebook.core.TestBase -- Start test addContactPositiveTest with data: [Contact{name='Oliver', lastName='Kan', phone='1234567890', email='Kan@gmai.com', address='Rehovot', description='QA'}]
+12320 [main] INFO  de.phonebook.core.TestBase -- PASSED: addContactPositiveTest
+12320 [main] INFO  de.phonebook.core.TestBase -- Stop Test
+12320 [main] INFO  de.phonebook.core.TestBase -- **************************************************************
+12324 [main] INFO  de.phonebook.core.TestBase -- Start test addContactPositiveTest with data: [Contact{name='Kristina', lastName='Kan', phone='12345678901', email='Kan1@gmai.com', address='Rehovot', description='QA'}]
+55575 [main] INFO  de.phonebook.core.TestBase -- PASSED: addContactPositiveTest
+55576 [main] INFO  de.phonebook.core.TestBase -- Stop Test
+55576 [main] INFO  de.phonebook.core.TestBase -- **************************************************************
+55579 [main] INFO  de.phonebook.core.TestBase -- Start test addContactPositiveTest with data: [Contact{name='Alex', lastName='Kan', phone='123456789021', email='Kan2@gmai.com', address='Rehovot', description='QA'}]
+98371 [main] INFO  de.phonebook.core.TestBase -- PASSED: addContactPositiveTest
+98371 [main] INFO  de.phonebook.core.TestBase -- Stop Test
+98371 [main] INFO  de.phonebook.core.TestBase -- **************************************************************
+98373 [main] INFO  de.phonebook.core.TestBase -- Start test addContactPositiveTest with data: [Contact{name='Oliver 1', lastName='Kan', phone='1234567890212', email='Kan3@gmai.com', address='Rehovot', description='QA'}]
+140964 [main] INFO  de.phonebook.core.TestBase -- PASSED: addContactPositiveTest
+140964 [main] INFO  de.phonebook.core.TestBase -- Stop Test
+140964 [main] INFO  de.phonebook.core.TestBase -- **************************************************************

@@ -1,0 +1,18 @@
+1693 [Test worker] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 151.0.7922.138 (resolved driver for Chrome 151)
+1756 [Test worker] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\DSAJ002473\.cache\selenium\chromedriver\win64\151.0.7922.138\chromedriver.exe
+5832 [Test worker] INFO  de.phonebook.core.TestBase -- Start test isHomeComponentPresentTest
+5953 [Test worker] INFO  de.phonebook.core.TestBase -- PASSED: isHomeComponentPresentTest
+5954 [Test worker] INFO  de.phonebook.core.TestBase -- Stop Test
+5956 [Test worker] INFO  de.phonebook.core.TestBase -- **************************************************************
+5980 [Test worker] INFO  de.phonebook.core.TestBase -- Start test loginRegisteredUserPositiveTest
+8663 [Test worker] INFO  de.phonebook.core.TestBase -- PASSED: loginRegisteredUserPositiveTest
+8663 [Test worker] INFO  de.phonebook.core.TestBase -- Stop Test
+8664 [Test worker] INFO  de.phonebook.core.TestBase -- **************************************************************
+8674 [Test worker] INFO  de.phonebook.core.TestBase -- Start test addContactPositiveTest
+52285 [Test worker] INFO  de.phonebook.core.TestBase -- PASSED: addContactPositiveTest
+52286 [Test worker] INFO  de.phonebook.core.TestBase -- Stop Test
+52286 [Test worker] INFO  de.phonebook.core.TestBase -- **************************************************************
+52288 [Test worker] INFO  de.phonebook.core.TestBase -- Start test removeContactTest
+135841 [Test worker] INFO  de.phonebook.core.TestBase -- PASSED: removeContactTest
+135841 [Test worker] INFO  de.phonebook.core.TestBase -- Stop Test
+135841 [Test worker] INFO  de.phonebook.core.TestBase -- **************************************************************
